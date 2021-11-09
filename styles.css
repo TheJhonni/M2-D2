@@ -12,5 +12,9 @@
 }
 
 .color {
-  background-color: yellowgreen !important;
+  background-color: orangered;
+}
+
+.text.center {
+  text-align: center;
 }
