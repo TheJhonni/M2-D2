@@ -12,9 +12,13 @@
 }
 
 .color {
-  background-color: orangered;
+  background-color: #007bff;
 }
 
-.text.center {
+.text-center {
   text-align: center;
+}
+
+.paddingmine {
+  padding-bottom: 0;
 }
