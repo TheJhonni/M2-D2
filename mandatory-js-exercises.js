@@ -19,6 +19,7 @@ const createUnorderedList = function () {
         const list = genres[i];
         newUliNode.innerHTML += "<li>" + list + "</li>"
     }
+    newUliNode.classList.add("disappear");
 }
 
 window.onload = function () {
